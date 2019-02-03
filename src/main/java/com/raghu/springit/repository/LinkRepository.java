@@ -1,4 +1,4 @@
-package com.raghu.repository;
+package com.raghu.springit.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
